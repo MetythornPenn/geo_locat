@@ -1,14 +1,3 @@
-<p align="center">
-<img align="center"  width="200" src="logo-pique.png">
-</p>
-
-<h1 align="center"> Pique API </h1>
-
-
-**Pique API** is a FastAPI-based web service for accessing and managing `Mountain Peaks`. It uses a PostGIS-enabled PostgreSQL database for storage and querying.
-
-## Disclaimer
-**Pique API** is a small example project and has no real-world use case. As such, minimal or no support will be provided.
 
 ## Prerequisites
 - Docker
@@ -18,7 +7,7 @@
 
 Clone this repository:
 ```shell
-git clone https://github.com/vgalin/pique-api.git
+git clone https://github.com/...
 ```
 
 CD into the cloned directory and run a docker-compose build:
